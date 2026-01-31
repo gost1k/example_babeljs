@@ -8,3 +8,9 @@ npm run babel:test: "babel test-input.js --out-file test-output.js"
 
 ## Подробный конфиг с настройками и комментариями
 https://github.com/gost1k/example_babeljs/blob/main/babel.config.js
+
+## Не забудьте выполнить
+```bash
+# Для установки npm зависимостей
+npm i
+```
