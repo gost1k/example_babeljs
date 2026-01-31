@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "babel": "babel test-input.js --out-file test-output.js"
+  },
+  "dependencies": {
+    "core-js": "^3.39.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.28.6",
+    "@babel/core": "^7.28.6",
+    "@babel/preset-env": "^7.28.6"
+  }
+}
