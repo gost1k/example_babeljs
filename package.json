@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "babel": "babel test-input.js --out-file test-output.js"
+    "babel": "babel src --out-dir output",
+    "babel:test": "babel test-input.js --out-file test-output.js"
   },
   "dependencies": {
     "core-js": "^3.39.0"
